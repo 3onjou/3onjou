@@ -1,16 +1,24 @@
-### Hi there 👋
+<HTML>
+<body>
+  <div><pre>
+                                    ▄▄                             .             _______________________
+     ███▀▀▀██▄                      ██                             .           / \                      \
+     ▀      ███                                                    .          |   |                      |
+           ▄█▀ ▄██▀██▄▀████████▄  ▀███  ▄██▀██▄▀███  ▀███          .           \_ |                      |
+        ▀▀▀█▄ ██▀   ▀██ ██    ██    ██ ██▀   ▀██ ██    ██          .              |                      |
+            ████     ██ ██    ██    ██ ██     ██ ██    ██          .              |                      |
+     ▄     ▄████▄   ▄██ ██    ██    ██ ██▄   ▄██ ██    ██          .              |                      |
+   ▄█████████▀ ▀█████▀▄████  ████▄  ██  ▀█████▀  ▀████▀███▄        .              |                      |
+                                 ██ ██                             .              |   ___________________|__
+                                 ▀███                              .              |  /                     /
+                                                                   .              \_/_____________________/
+  </pre></div>
+  <div style="align-items: center"><h3>Hello, you can call me Jou!</h3></div>
 
-<!--
-**3onjou/3onjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div style="font:Monospace"><p> 
+      Pronouns: she/her <br>
+     🔭 Working on my Portfolio website <br>
+     🌱 Learning Javascript with The Odin Project and Experience Design <br>
+   </p></div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
